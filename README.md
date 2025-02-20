@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johnny Williams.
 - 👀 I’m interested in cybersecurity, python, AI, Azure.
 - 🌱 I’m currently learning python, machine learning, and Azure logic apps.
-- 💞️ I’m looking to collaborate on cybersecurity projects.
+
 
 
 <!---
